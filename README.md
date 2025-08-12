@@ -26,16 +26,7 @@ Core programming concepts and standard library usage.
 
 ### **3. advanced/**
 More complex Java concepts and best practices.
-- `GenericsExample.java` — Type-safe methods using Java generics.
 - `ThreadsExample.java` — Multithreading using the `Thread` class.
-- `APIRequest.java` — Sending a GET request to an external API.
-
----
-
-### **4. projects/**
-Mini-projects simulating real-world problems.
-- `TodoList.java` — Simple to-do list manager.
-- `WeatherChecker.java` — Fetches weather data from the OpenWeather API.
 
 ---
 
