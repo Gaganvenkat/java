@@ -8,7 +8,7 @@ This repository is organized from **fundamentals → intermediate concepts → a
 
 ## Structure
 
-### **1. basics/**
+### **1. basics**
 Beginner-friendly examples covering Java fundamentals.
 - `Variables.java` — Declares variables of different types and prints them.
 - `Loops.java` — Demonstrates `for` and `while` loops.
@@ -16,7 +16,7 @@ Beginner-friendly examples covering Java fundamentals.
 
 ---
 
-### **2. intermediate/**
+### **2. intermediate**
 Core programming concepts and standard library usage.
 - `OOPExample.java` — Class creation, constructors, methods, and encapsulation.
 - `FileHandling.java` — Reading and writing text files using Java I/O.
@@ -24,7 +24,7 @@ Core programming concepts and standard library usage.
 
 ---
 
-### **3. advanced/**
+### **3. advanced**
 More complex Java concepts and best practices.
 - `ThreadsExample.java` — Multithreading using the `Thread` class.
 
